@@ -6,8 +6,8 @@ Check out the deployed project: https://ibudgets.netlify.app
 <br>
 <h2>Features</h2>
 <ul>
-<li>Manage multiple categories</li>
 <li>Customizable categories</li>
+<li>Manage multiple categories</li>
 <li>Track multiple transacation for a certain category</li>
 <li>See your recent transacations</li>
 <li>Transcation history with option to delete transcations</li>
