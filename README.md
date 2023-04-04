@@ -9,7 +9,6 @@ Check out the deployed project: https://ibudgets.netlify.app
 <li>Customizable categories</li>
 <li>Manage multiple categories</li>
 <li>Track multiple transacation for a certain category</li>
-<li>See your recent transacations</li>
 <li>Transcation history with option to delete transcations</li>
 <li>Responsive design, optimized for both desktop and mobile devices</li>
 <li>No sign up required, all your data is stored in your local storage</li>
