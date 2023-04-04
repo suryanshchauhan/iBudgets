@@ -12,4 +12,12 @@ Check out the deployed project: https://ibudgets.netlify.app
 <li>Transcation history with option to delete a certain transcation</li>
 <li>Responsive design, optimized for both desktop and mobile devices</li>
 <li>No sign up required, all your data is stored in your local storage</li>
+</ul>
 
+<h2>Technologies Used</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>React</li>
+</ul>
