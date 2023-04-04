@@ -23,4 +23,4 @@ Check out the deployed project: https://ibudgets.netlify.app
 </ul>
 
 <img width="1324" alt="image" src="https://user-images.githubusercontent.com/66567078/229796969-33603143-e65a-45a7-a2ee-62609fdbc786.png">
-<img width="1324" alt="image" src="https://user-images.githubusercontent.com/66567078/229798249-4c7bd13a-e9de-4aaf-af67-8e6ebd0d481f.png">
+<img width="1324" alt="image" src="https://user-images.githubusercontent.com/66567078/229798600-1c7018c8-3c70-4dd5-93e4-cac20fb3c784.png">
