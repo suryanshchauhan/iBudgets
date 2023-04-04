@@ -22,5 +22,5 @@ Check out the deployed project: https://ibudgets.netlify.app
 <li>React</li>
 </ul>
 
-<img width="1324" alt="image" src="https://user-images.githubusercontent.com/66567078/229796969-33603143-e65a-45a7-a2ee-62609fdbc786.png">
-<img width="1324" alt="image" src="https://user-images.githubusercontent.com/66567078/229797307-83f0e1ce-21e6-480a-ac1e-5f9fee615186.png")
+<img width="1324" alt="image" src="https://user-images.githubusercontent.com/66567078/229796969-33603143-e65a-45a7-a2ee-62609fdbc786.png"/>
+<img width="1324" alt="image" src="https://user-images.githubusercontent.com/66567078/229797307-83f0e1ce-21e6-480a-ac1e-5f9fee615186.png"/>
