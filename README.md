@@ -11,7 +11,7 @@ Check out the deployed project: https://ibudgets.netlify.app
 <li>Track multiple transacation for a certain category</li>
 <li>Transcation history with option to delete transcations</li>
 <li>Responsive design, optimized for both desktop and mobile devices</li>
-<li>No sign up required, all your data is stored in your local storage</li>
+<li>No sign up required, all your data is stored in your local storage. The data will stay as long as you "Delete User" or clear your browser history</li>
 </ul>
 
 <h2>Technologies Used</h2>
